@@ -4,9 +4,9 @@ WANT TO DO
 - Mempelajari salah satu framework JS
 - Mempelajari salah satu framework PHP
 - Membelajari lagi tentang API
-- Membuat presentasi ReaReo
+- Membuat content video
 
-NEED TO LEARN
+WHAT TO LEARN
 - Git
 - React
 - Flutter
