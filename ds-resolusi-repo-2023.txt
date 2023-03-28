@@ -1,3 +1,14 @@
-Belajar dan Mengetahui cara membangun project mobile apps
-Mebuat Project mobile apps pertama
-Membuat presentasi ReaReo
+WANT TO DO
+- Belajar dan Mengetahui cara membangun project mobile apps
+- Mempelajari salah satu Framework Mobile Apps
+- Mempelajari salah satu framework JS
+- Mempelajari salah satu framework PHP
+- Membelajari lagi tentang API
+- Membuat presentasi ReaReo
+
+NEED TO LEARN
+- Git
+- React
+- Flutter
+- VUE
+- Angular
